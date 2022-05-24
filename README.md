@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/andreadcorreia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="andreadcorreia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andrea diaz correia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea diaz correia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andrea-diaz-correia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea-diaz-correia" height="30" width="40" /></a>
 <a href="https://instagram.com/andreadiazcorreia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andreadiazcorreia" height="30" width="40" /></a>
 </p>
 
