@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/andreadcorreia" target="blank"><img src="https://img.shields.io/twitter/follow/andreadcorreia?logo=twitter&style=for-the-badge" alt="andreadcorreia" /></a> </p>
 
-- 💻 I am a Full-Stack Developer, passionate about technology and challenges. I love learning new things and currently exploring the world of Web3. I love video games and cats 😺
+- 💻 I am a Full-Stack Developer, passionate about technology and challenges. I love learning new things. I love video games and cats 😺
 
 - 📫 How to reach me **andrea.diaz.correia@gmail.com**
 
